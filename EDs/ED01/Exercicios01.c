@@ -312,7 +312,7 @@ void metodo12 ( void )
 } // fim metodo12 ( )
 
 // identificar
-menuOpcoes ( void ) 
+void menuOpcoes ( void ) 
 {
    printf ( "\n" );             // para saltar linha
    printf ( "%s\n", "Exercicio01 - v.0.0 - 11/02/2025"       );
