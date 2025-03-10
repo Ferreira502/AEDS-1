@@ -26,7 +26,7 @@
 void metodo01(void) 
 {
 // Identificar
-   printf("\n%s\n", "\n\tMetodo0111");
+   printf("\n%s\n", "\n\tMetodo0311");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -52,7 +52,7 @@ void metodo01(void)
 void metodo02 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0112");
+   printf("\n%s\n", "\n\tMetodo0312");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -78,7 +78,7 @@ void metodo02 ( void )
 void metodo03 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0113");
+   printf("\n%s\n", "\n\tMetodo0313");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -106,7 +106,7 @@ void metodo03 ( void )
 void metodo04 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0114");
+   printf("\n%s\n", "\n\tMetodo0314");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -132,7 +132,7 @@ void metodo04 ( void )
 void metodo05 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0115");
+   printf("\n%s\n", "\n\tMetodo0315");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -160,7 +160,7 @@ void metodo05 ( void )
 void metodo06 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0116");
+   printf("\n%s\n", "\n\tMetodo0316");
    char palavra[MAX]; 
 
    printf("\nDigite uma Palavra: ");
@@ -188,7 +188,7 @@ void metodo06 ( void )
 void metodo07 ( void )
 {
 // Identificar
-   printf("\n%s\n", "\n\tMetodo0117");
+   printf("\n%s\n", "\n\tMetodo0317");
    int a = 0, b = 0, n = 0;
    int cont = 0, x = 0;
    
@@ -228,7 +228,7 @@ void metodo07 ( void )
 void metodo08 ( void )
 {
  // Identificar
-    printf("\n%s\n", "\n\tMetodo0118");
+    printf("\n%s\n", "\n\tMetodo0318");
    int a = 0, b = 0, n = 0;
    int cont = 0, x = 0;
  
@@ -269,7 +269,7 @@ void metodo08 ( void )
 void metodo09 ( void )
 {
  // Identificar
-   printf("\n%s\n", "\n\tMetodo0119");
+   printf("\n%s\n", "\n\tMetodo0319");
    double a = 0.0, b = 0.0, x = 0.0;
    int n  = 0, cont = 0, parte_inteira = 0.0;
    
@@ -317,7 +317,7 @@ void metodo09 ( void )
   */
  void metodo10(void) {
    // Identificar
-   printf("\n%s\n", "\n\tMetodo120");
+   printf("\n%s\n", "\n\tMetodo320");
 
    double a = 0.0, b = 0.0, x = 0.0, parte_fracionaria = 0.0;
    int n = 0, cont = 0;
@@ -365,7 +365,7 @@ void metodo09 ( void )
  void metodo11 ( void )
  {
   // identificar
-   printf ( "\n%s\n", "\n\tMetodo01E1" );
+   printf ( "\n%s\n", "\n\tMetodo03E1" );
    char palavra[MAX], palavra_1[MAX];
    int j = 0;
 
@@ -394,7 +394,7 @@ void metodo09 ( void )
  void metodo12(void)
  {
    // identificar
-     printf("\n%s\n", "\n\tMetodo01E2");
+     printf("\n%s\n", "\n\tMetodo03E2");
      char cadeia[MAX];
      int apenasSimbolos = 1;
  
@@ -430,18 +430,18 @@ void menuOpcoes ( void )
 // mostrar opcoes
    printf ( "%s\n", "Opcoes:   "     );
    printf ( "%s\n", " 0 - parar"     );
-   printf ( "%s\n", " 1 - metodo 0111" );
-   printf ( "%s\n", " 2 - metodo 0112" );
-   printf ( "%s\n", " 3 - metodo 0113" );
-   printf ( "%s\n", " 4 - metodo 0114" );
-   printf ( "%s\n", " 5 - metodo 0115" );
-   printf ( "%s\n", " 6 - metodo 0116" );
-   printf ( "%s\n", " 7 - metodo 0117" );
-   printf ( "%s\n", " 8 - metodo 0118" );
-   printf ( "%s\n", " 9 - metodo 0119" );
-   printf ( "%s\n", " 10- metodo 0120" );
-   printf ( "%s\n", " 11- metodo 01E1" );
-   printf ( "%s\n", " 12- metodo 01E2" );
+   printf ( "%s\n", " 1 - metodo 0311" );
+   printf ( "%s\n", " 2 - metodo 0312" );
+   printf ( "%s\n", " 3 - metodo 0313" );
+   printf ( "%s\n", " 4 - metodo 0314" );
+   printf ( "%s\n", " 5 - metodo 0315" );
+   printf ( "%s\n", " 6 - metodo 0316" );
+   printf ( "%s\n", " 7 - metodo 0317" );
+   printf ( "%s\n", " 8 - metodo 0318" );
+   printf ( "%s\n", " 9 - metodo 0319" );
+   printf ( "%s\n", " 10- metodo 0320" );
+   printf ( "%s\n", " 11- metodo 03E1" );
+   printf ( "%s\n", " 12- metodo 03E2" );
    printf ( "%s\n", "" );        // para saltar linha
 }
 
